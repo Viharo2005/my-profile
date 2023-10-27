@@ -1,0 +1,97 @@
+body {
+	background-color: #F3F0CA;
+	color: #3876BF;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+h1, h2, h3 	{
+	color: #192655;
+	font-family: 'Lora', serif;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	front-size: 60 px;
+
+}
+a {
+	text-decoration: none;
+	color: #3876BF;
+}
+a:hover { 
+color: black; }	
+
+/* Custom design with class */
+
+.container {
+width: 800px;
+margin: 50px auto;
+
+
+}
+
+.box-beige {
+background-color: beige;
+padding: 50px;
+box box-shadow: 3px 12px 43px rgba(0, 0, 0, 1.0);
+border-radius: 10px;
+margin: 20px;
+
+}
+.img-circle {
+
+	border-radius: 50px;
+
+}
+
+.btn-red {
+background-color: black;
+color: white;
+padding: 15 px 20 px;
+border-radius: 10px;
+font-size: 25px;
+}
+
+.list-inline {
+list-style: none;
+padding: 10 px;
+}
+
+.list-inline li {
+display: inline-block;
+padding: 15px;
+
+}
+
+.list-inline i {
+
+	font-size: 40px;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
